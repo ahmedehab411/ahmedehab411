@@ -8,7 +8,7 @@
   ### 🚀 Innovating at the intersection of Embedded Systems, Robotics, and AI
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=R%26D+Engineer;Embedded+Systems+Developer;Robotics+Enthusiast;Computer+Vision+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=R%26D+Engineer;Embedded+Systems+Developer;Robotics+Enthusiast;Computer+Vision+Engineer" alt="Typing SVG" />
   </a>
 
 </div>
