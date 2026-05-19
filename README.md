@@ -8,7 +8,7 @@
   ### 🚀 Innovating at the intersection of Embedded Systems, Robotics, and AI
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=R%26D+Engineer;Embedded+Systems+Developer;Robotics+Enthusiast;Computer+Vision+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=R%26D+Engineer;Embedded+Systems+Developer;Robotics+Enthusiast;Computer+Vision+Engineer" alt="Typing SVG" />
   </a>
 
 </div>
@@ -19,10 +19,11 @@
 
 I am a passionate **R&D Engineer** based in Egypt, specializing in **Robotics, Embedded Systems, and Artificial Intelligence**. With a B.Sc. in **Mechatronics Engineering** from Helwan University, I thrive on building autonomous systems and solving complex problems through the seamless integration of hardware and software.
 
-- 🔭 I’m currently working on **Autonomous Vehicles & SLAM algorithms**.
-- 🌱 I’m currently learning **Deep Reinforcement Learning** for adaptive robot control.
-- 👯 I’m looking to collaborate on **Open Source Robotics & Computer Vision Projects**.
+- 🔭 I'm currently working on **Autonomous Vehicles & SLAM algorithms**.
+- 🌱 I'm currently learning **Deep Reinforcement Learning** for adaptive robot control.
+- 👯 I'm looking to collaborate on **Open Source Robotics & Computer Vision Projects**.
 - 💬 Ask me about **C++, Python, ROS, Microcontrollers, and PCB Design**.
+- 📫 Reach me at **ahmedehab1232@gmail.com**.
 
 ---
 
@@ -96,6 +97,7 @@ I am a passionate **R&D Engineer** based in Egypt, specializing in **Robotics, E
 - **Calculator**: A functional clone of the Windows calculator with expression parsing.
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedehab411&style=flat-square&color=blue" alt="Visitor Counter" />
 </div>
